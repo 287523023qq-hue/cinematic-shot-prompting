@@ -6,7 +6,12 @@
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude%20%7C%20Cursor-purple.svg)](SKILL.md)
 [![Video Models](https://img.shields.io/badge/Models-Kling%20%7C%20Dreamina%20%7C%20Runway%20%7C%20Sora-red.svg)](#-支持的-ai-视频模型)
+[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$3.99%20Verified-blue.svg)](https://www.agensi.io/skills/cinematic-shot-prompting)
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/cinematic-shot-prompting?style=social)](https://github.com/287523023qq-hue/cinematic-shot-prompting)
+
+> ⭐️ **如果 7 槽位运镜契约帮您节省了视频生成额度，欢迎点亮右上角 Star ⭐️ 支持开源！**  
+> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 (\$3.99)](https://www.agensi.io/skills/cinematic-shot-prompting)  
+> 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
   <img src="assets/demo_cinematic_fast.gif" alt="Cinematic Output Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
