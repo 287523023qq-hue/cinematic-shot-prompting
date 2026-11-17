@@ -10,7 +10,8 @@
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/cinematic-shot-prompting?style=social)](https://github.com/287523023qq-hue/cinematic-shot-prompting)
 
 > ⭐️ **如果 7 槽位运镜契约帮您节省了视频生成额度，欢迎点亮右上角 Star ⭐️ 支持开源！**  
-> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 (\$3.99)](https://www.agensi.io/skills/cinematic-shot-prompting)  
+> 🎮 **全新旗舰上线**：[Game Universe Studio 游戏宇宙全栈管线 ($1.00 首发特惠 & 在线试玩 gaoyaguo.eu.cc)](https://www.agensi.io/skills/game-universe-studio)  
+> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 ($3.99)](https://www.agensi.io/skills/cinematic-shot-prompting)  
 > 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
