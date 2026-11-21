@@ -6,13 +6,15 @@
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude%20%7C%20Cursor-purple.svg)](SKILL.md)
 [![Video Models](https://img.shields.io/badge/Models-Kling%20%7C%20Dreamina%20%7C%20Runway%20%7C%20Sora-red.svg)](#-支持的-ai-视频模型)
-[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$3.99%20Verified-blue.svg)](https://www.agensi.io/skills/cinematic-shot-prompting)
+[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$3.99%20Verified-blue.svg)](https://www.agensi.io/r/CREATOR980D20B?to=/skills/cinematic-shot-prompting&utm_source=github_cinematic)
+[![4-in-1 Bundle](https://img.shields.io/badge/4--in--1%20Bundle-$9.99%20(Save%2041%25)-10b981.svg)](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_cinematic)
+[![Claude Skills Merged](https://img.shields.io/badge/claude--skills-PR%20%231132%20Merged-6366f1.svg)](https://github.com/alirezarezvani/claude-skills/pull/1132)
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/cinematic-shot-prompting?style=social)](https://github.com/287523023qq-hue/cinematic-shot-prompting)
 
-> ⭐️ **如果 7 槽位运镜契约帮您节省了视频生成额度，欢迎点亮右上角 Star ⭐️ 支持开源！**  
-> 🎮 **全新旗舰上线**：[Game Universe Studio 游戏宇宙全栈管线 ($1.00 首发特惠 & 在线试玩 gaoyaguo.eu.cc)](https://www.agensi.io/skills/game-universe-studio)  
-> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 ($3.99)](https://www.agensi.io/skills/cinematic-shot-prompting)  
-> 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
+> 🎁 **【官方 4 合 1 旗舰套餐】仅 `$9.99` 一次解锁全部 4 大生产级技能（原价 `$16.97`，立省 41%）**：[AI Game & Visual Asset Studio Suite →](https://www.agensi.io/r/CREATOR980D20B?to=/bundles/ai-game-visual-asset-studio-suite&utm_source=github_cinematic)  
+> 🔥 **限时特惠**：角色一致性工作坊现正 7 天 **-28% 促销 (`$5.00`)**；Game Studio 仅需 **`$1.00`** 起步！  
+> 🚀 **单买本技能 (`$3.99`) / 蓝 V 主页**：[立即前往 Agensi 商店](https://www.agensi.io/r/CREATOR980D20B?to=/skills/cinematic-shot-prompting&utm_source=github_cinematic)  
+> 🌐 **全套技能在线演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
   <img src="assets/demo_cinematic_fast.gif" alt="Cinematic Output Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
